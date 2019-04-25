@@ -1,6 +1,3 @@
-A set of configuration files to reproduce the experimentation described in this tutorial: http://mehdiacheli.developpez.com/tutoriels/postgres/decouvrir-installer-postgresxl/
+postgres-xl scripts for Ubuntu server 18.04/+
 
-# Authors
-
-* Mehdi ACHELI
-* Mickael BARON
+This project forked from : https://github.com/mickaelbaron/postgresxl-scripts
